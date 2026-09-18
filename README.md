@@ -2,15 +2,15 @@
 
 # Vibe Coding for Beginners
 
-**Languages:** [English](README.md) · [简体中文](README_zh.md)
+**Languages:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Deutsch](README_de.md) · [Français](README_fr.md) · [Español](README_es.md) · [한국어](README_ko.md) · [Português](README_pt.md) · [Русский](README_ru.md) · [العربية](README_ar.md)
 
 <p align="center">
   <a href="https://ailesson.io/courses/vibe-coding-for-beginners">
-    <img src="https://ailesson.io/content-assets/sha256/02/08/02086506f45cd9c1719cc4c756b2fbee85e7f215bb8931855afbf2ad46d18975.png" alt="Vibe Coding for Beginners" width="360">
+    <img src="https://ailesson.io/content-assets/sha256/99/20/9920ca731b7ee9b3c0052d0d130b1d2a481c1b19d16a6d0a3921067e6875bfa7.png" alt="Vibe Coding for Beginners" width="360">
   </a>
 </p>
 
-Build your first small App with AI, then test, improve, review, and hand off only what the evidence supports.
+Audit a Course-prepared small App build with AI, then test, improve, review, and hand off only what the evidence supports.
 
 [Start this course on AILesson](https://ailesson.io/courses/vibe-coding-for-beginners)
 
@@ -18,11 +18,29 @@ You have an idea for a small App. An AI builder can turn a few sentences into a 
 
 This Course is a guided audit of one end-to-end, low-risk project: a mobile-first checklist for preparing and closing a community book-swap event. The Course supplies twelve synthetic tasks containing no real personal or organization data. Before each production result is revealed, you make the relevant scope, testing, repair, approval, or handoff decision and compare it with evidence from the real run.
 
-You will first compare the main AI coding work modes and representative products, then follow one continuous Replit-to-Codex path. You begin in Replit because there is no existing code and the first need is a runnable user path with little setup. You will turn requirements into observable checks, classify the results, and use a real failure to form one bounded repair request instead of repeatedly asking AI to “make it better.”
+You will first compare the main AI coding work modes and representative products, then audit one continuous Replit-to-Codex path. The recorded build begins in Replit because there is no existing code and the first need is a runnable user path with little setup. You will turn requirements into observable checks, classify the results, and use a real failure to form one bounded repair request instead of repeatedly asking AI to “make it better.”
 
-Later, you inspect a file-level conflict that the visible Preview could not settle. That concrete evidence—not the idea that a Coding Agent is always better—determines whether a move to Codex is justified. You preserve the working state, ask Codex to inspect before editing, approve an exact scope, check the actual difference, and interpret both successful and blocked checks honestly.
+Later, you inspect a disagreement between the visible App and its files that the Preview alone could not settle. That concrete evidence—not the idea that a Coding Agent is always better—determines whether a move to Codex is justified. You judge how the working state should be preserved, approve an exact inspection and edit scope, check the actual difference, and interpret both successful checks and checks that could not run honestly.
 
-The learning investigation ends with a reviewable, non-public demonstration and a clear handoff, even though the original App brief is not fully satisfied. The Course does not claim that the App is production-ready, independently reproducible from an incomplete export, or proven safe for real data. You leave with a transferable method for choosing an AI coding tool, limiting a first version, testing behavior, requesting focused changes, checking Agent work, and stopping where the evidence stops.
+The learning investigation ends with a reviewable, non-public demonstration and a clear handoff, even though the original App brief is not fully satisfied. You leave with a transferable method for choosing an AI coding tool, limiting a first version, testing behavior, requesting focused changes, checking Agent work, and stopping where the evidence stops.
+
+## Frequently asked questions
+
+### Do I need to know how to code or set up a development environment?
+
+No. The Course assumes no programming experience and explains only the project, file, test, and change concepts needed for the decisions you make. You are still responsible for checking observable behavior and deciding what AI may change.
+
+### Do I need Replit and Codex accounts to follow the Course?
+
+No. The guided Lessons use Course-prepared evidence from a real Replit-to-Codex run, so you do not need an existing codebase or local development setup to follow the investigation. Repeating the build outside the Course depends on the products' current access and terms.
+
+### Can I build my own App instead of the book-swap checklist?
+
+The Lessons follow one supplied checklist so the build, failures, fixes, and handoff remain consistent. You can transfer the method to another small, low-risk project, but you must define and test that project's own requirements rather than treating the Course result as evidence for it.
+
+### Will the finished App be ready to publish or use with real data?
+
+No. The Course ends with a reviewable, non-public demonstration that still has known limitations. Any decision to publish, collect real data, or expand the App requires new checks and remains your responsibility.
 
 ## Lessons
 
